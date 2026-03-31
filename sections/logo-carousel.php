@@ -1,6 +1,7 @@
 <!-- SEÇÃO logo-carousel -->
-<div class="section-logo_carousel_QeApfd-padding">
+<div class="section-logo_carousel_QeApfd-padding" id="PartnersSection">
   <p class="logo-bar-title">Parceiros e Construtoras</p>
+  <h2 class="logo-bar-subtitle">Empresas que confiam no meu trabalho</h2>
 
   <div class="marquee">
     <!-- GRUPO 1: Container de Rolagem original -->
